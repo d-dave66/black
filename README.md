@@ -132,10 +132,3 @@ else:
 # print("\n\n\n",a.actual_deck[1][0],a.actual_deck[1][1])
 
 
-
-
-
-
-
-    
-#     def 
